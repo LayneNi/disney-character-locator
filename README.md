@@ -7,12 +7,12 @@ Our website serves the purpose of being able to search a Disney character and re
 
 ## Installation
 
-To use this website, you can  visit it via this url: https://erickim86.github.io/disney-character-locator/ <br/>
+To use this website, you can  visit it via this url: https://layneni.github.io/disney-character-locator/ <br/>
 Follow the instructions on the page.
 
 ## Usage
 
-Visit the GitHub repo via this url: https://github.com/EricKim86/disney-character-locator <br/>
+Visit the GitHub repo via this url: https://layneni.github.io/disney-character-locator/ <br/>
 Visit the webpage via the url in installion.
 
 Desktop View: <br>
